@@ -10,7 +10,7 @@ void setup(){
 }
 
 void loop(){
-  	//------------ RED ------------
+  	//------------ LED_1 ------------
 	for(int i=0; i<3; i++) // repeat 3 times
 	{
 		// Turn on LED1, and turn off others
@@ -24,7 +24,7 @@ void loop(){
 		digitalWrite(ledPin3, LOW);
 		delay(1000);
 	}
-	//------------ GREEN ------------
+	//------------ LED_2 ------------
 	for(int j=0; j<3; j++) // repeat 3 times
 	{
 		// Turn on LED2, and turn off others
@@ -38,7 +38,7 @@ void loop(){
 		digitalWrite(ledPin3, LOW);
 		delay(2000);
 	}
-	//------------ BLUE ------------
+	//------------ LED_3 ------------
 	for(int k=0; k<3; k++) // repeat 3 times
 	{
 		// Turn on LED3, and turn off others
