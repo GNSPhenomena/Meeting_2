@@ -3,7 +3,7 @@
 ### 1. Introduction to Arduino 2
 - Developing knowledge in Arduino
 
-### 2. Project for Today
+### 2. Project to Do
 - S.O.S Distress Signal: the international Morse code distress signal
   - S.O.S Signal: https://www.youtube.com/watch?v=CETGq7sqytE
   - Build a circuit with 3 LEDs
