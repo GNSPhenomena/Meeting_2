@@ -1,3 +1,2 @@
 # Meeting_2
-Introduction to Arduino 2 \n
-SOS Distress Signal
+Introduction to Arduino 2: SOS Distress Signal
