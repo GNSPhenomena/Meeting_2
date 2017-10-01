@@ -1,4 +1,5 @@
 # Meeting_2
+
 1. Introduction to Arduino 2
 - Developing knowledge in Arduino
 
@@ -9,8 +10,8 @@
   - Make the first LED blink for 3 times with 1 second pause; in the mean time, turn off other LEDs
   - Make the second LED blink for 3 times with 2 seconds pause; in the mean time, turn off other LEDs
   - Make the third LED blink for 3 times with 1 second pause; in the mean time, turn off other LEDs
-  
-3. **Goals**
+  
+3. Goals
 - Review about Arduino I/O
 - Review about how to use a breadboard
 - Learn to build a circuit with 3 LEDs on a breadboard, and connect them to a Arduino Uno
