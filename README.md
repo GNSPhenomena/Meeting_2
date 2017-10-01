@@ -11,4 +11,8 @@
   - Make the third LED blink for 3 times with 1 second pause; in the mean time, turn off other LEDs
   
 3. Goals
-- To review about Arduino I/O
+- Review about Arduino I/O
+- Review how to use a breadboard
+- Learn to build a circuit with 3 LEDs on a breadboard, and connect them to a Arduino Uno
+- Review about the Arduino IDE (Integrated Development Environment)
+- Learn to write programs to power the circuit to present the S.O.S Distress Signal.
