@@ -1,14 +1,16 @@
-//------------ DEFINE PIN VARS ------------
+//------------ DEFINE VARS ------------
 int ledPin1 = 0;
 int ledPin2 = 1;
 int ledPin3 = 2;
 
+//------------ Initialization ------------
 void setup(){
 	pinMode(ledPin1, OUTPUT);
 	pinMode(ledPin2, OUTPUT);
 	pinMode(ledPin3, OUTPUT);
 }
 
+//------------ Main Function ------------
 void loop(){
   	//------------ LED_1 ------------
 	for(int i=0; i<3; i++) // repeat 3 times
