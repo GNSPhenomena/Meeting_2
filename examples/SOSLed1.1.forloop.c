@@ -1,7 +1,7 @@
 //------------ DEFINE PIN VARS ------------
-int ledPin1 = 9;
-int ledPin2 = 10;
-int ledPin3 =11;
+int ledPin1 = 0;
+int ledPin2 = 1;
+int ledPin3 = 2;
 
 void setup(){
 	pinMode(ledPin1, OUTPUT);
